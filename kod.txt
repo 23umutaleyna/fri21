@@ -3,4 +3,3 @@ print("pesto");
 print("pesto");
 print("pesto");
 print("hürrem");
-print("mercimek");
