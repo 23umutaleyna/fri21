@@ -1,2 +1,9 @@
 print("merhaba dünya");
+<<<<<<< HEAD
 print("pesto");
+=======
+print("pesto");
+print("pesto");
+print("pesto");
+print("hürrem");
+>>>>>>> parent of 4a72590 (Update kod.txt)
