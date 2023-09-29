@@ -1,2 +1,5 @@
 print("merhaba dünya");
 print("pesto");
+print("pesto");
+print("pesto");
+print("hürrem");
